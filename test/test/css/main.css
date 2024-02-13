@@ -1,0 +1,38 @@
+#size-logo{
+    width: 150px;
+}
+
+
+#ff a{
+    margin-left: 70px;
+}
+
+
+#colornav{
+    background-color: red;
+    width: 1000px;
+}
+
+.main-navigation{
+    font-weight: 600;
+
+    a{
+        color: black;
+         padding: 1rem 1.4rem;
+    }
+}
+
+.bg{
+    background-color: rgb(7, 160, 255);
+   
+}
+
+.menu-toggle{
+   background-color:  rgb(7, 160, 255);
+   border: none;
+}
+
+#text1{
+    margin-bottom: 200px!important;
+    margin-right: 721px;
+}
